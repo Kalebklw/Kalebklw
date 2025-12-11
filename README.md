@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Updating and adding commenting for the Love Island Interactive Website.**
 
-- 🌱 I'm currently learning **My main focus right now is learning the deeper intricacies of Python so I can further hone my skills within the language.**
+- 🌱 **My main focus right now is learning the deeper intricacies of Python so I can further hone my skills within the language.**
 
 - 👯 I'm looking to collaborate on **backend projects, which will not only help achieve my goal but will build new lasting friendships.**
 
@@ -16,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Kalebklw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kalebklw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Kaleb-Lawrence-Williams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kaleb-Lawrence-Williams" height="30" width="40" /></a>
 </p>
 
